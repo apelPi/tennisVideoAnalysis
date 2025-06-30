@@ -269,6 +269,12 @@ python Player\ Pose/visualize_features.py <csv_file(s)> [--gif <output.gif>]
 
 You can train your own models using the provided notebooks and your dataset.
 
+## TODO
+- [x] Add pose detection model using OpenPose
+- [ ] Add inference from ball tracking into the RNN being used for pose detection
+- [ ] Work on the website to finish the BTP project.
+
+
 ## Notes
 
 - The system expects videos to be annotated with shot types and frame indices for training.
