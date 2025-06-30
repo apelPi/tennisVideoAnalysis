@@ -270,7 +270,8 @@ python Player\ Pose/visualize_features.py <csv_file(s)> [--gif <output.gif>]
 You can train your own models using the provided notebooks and your dataset.
 
 ## TODO
-- [x] Add pose detection model using OpenPose
+- [x] Add pose detection model using MoveNet
+- [ ] Try a different pose detection model that may be more suitable(like OpenPose)
 - [ ] Add inference from ball tracking into the RNN being used for pose detection
 - [ ] Work on the website to finish the BTP project.
 
